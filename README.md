@@ -13,3 +13,4 @@ Entrepreneur and SEO professional from Brazil, currently living in San Francisco
 ## A few small things I've built
 - [HeadphoneBar](https://github.com/yurimoreno/HeadphoneBar) — one-click Bluetooth headphone connection for macOS
 - [html-clock-benchmark](https://github.com/yurimoreno/html-clock-benchmark) — a one-shot prompt benchmark scoring LLMs on generating an HTML analog clock
+- [rss-viewer](https://github.com/yurimoreno/rss-viewer) — a Feedly-style RSS reader with AI-powered digests and summaries
