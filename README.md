@@ -1,6 +1,10 @@
 # Hi, I'm Yuri Moreno 👋
 
-Yuri Moreno is an SEO professional who works in the field of SEO and marketing. Yuri has been working as an SEO professional since 2011.
+Entrepreneur and SEO professional from Brazil, currently living in San Francisco. I've spent 15+ years in SEO and marketing, and today focus on acquiring and growing digital businesses.
+
+---
+
+📸 Photography · ✈️ Travel · 🍜 Food · 🐶 Dogs
 
 [![Website](https://img.shields.io/badge/website-yurimoreno.com-black)](https://yurimoreno.com)
 [![Twitter](https://img.shields.io/badge/twitter-@yurimoreno-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yurimoreno)
